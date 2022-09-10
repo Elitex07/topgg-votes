@@ -1,7 +1,14 @@
 # topgg-votes
 This repository will help you with tracking votes on top.gg for your Discord Bot.
 
-Just do some changes in the main file of your bot as shown in the index.js file.
+## Changes
+- Open `./index.js`.
+- Change the port.
+- Change the auth code.
+- Enter Token in `.env` file as :
+```
+TOKEN="YOUR_TOKEN"
+```
 
 ## Support
 Join one of these Discord Servers, to get support:
